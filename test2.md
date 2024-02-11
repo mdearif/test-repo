@@ -139,7 +139,7 @@ In conclusion, I have effectively met my objectives about risk management techni
 
 ### Reflections on Case Study/course work:
 
-I read the book and two case studies related to the topics mentioned above. Below are the prime areas I focused on for this week: -
+#### I read the book and two case studies related to the topics mentioned above. Below are the prime areas I focused on for this week: -
 *	I scrutinized the significance of Configuration Management in ensuring consistency and control over project artifacts. 
 *	Understanding the benefits and characteristics of Configuration Management provided valuable insights into maintaining project integrity and facilitating collaboration.
 *	Project planning emerged as a critical area of study, where I explored the components and methodologies essential for effective project execution.
@@ -182,7 +182,7 @@ I read the book and two case studies related to the topics mentioned above. Belo
 *	I found workable solutions for efficient project management and oversight.
 *	Lastly, I made extensive use of a range of materials to obtain thorough understanding of software project planning techniques.
 
-###Adjustments to Goals:
+### Adjustments to Goals:
 
 *	I made a significant progress in deepening my knowledge of project planning and configuration management systems.
 *	I looked into a number of project planning-related aspects and how they applied to various project circumstances. 
