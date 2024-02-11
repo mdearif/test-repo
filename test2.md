@@ -7,6 +7,8 @@
 **Week 1**: *Jan 18 – Jan 24*  
 **Date**: *Jan 22*  
 
+***
+
 ### Key Concepts Learned: 
 * What is a project?
 * What is a software project?
@@ -21,6 +23,8 @@
 *	What is project scope?
 *	What are project objectives?
 *	What project activities are performed during project initiation?
+
+***
 
 ### Application in Real Projects: 
 
