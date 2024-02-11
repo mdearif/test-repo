@@ -71,7 +71,7 @@ To achieve these goals, I will leverage course materials, engage in practical ex
 
 ***
 
-**Week 2**: *Jan 28 – Feb 3*
+**Week 2**: *Jan 28 – Feb 3*  
 **Date**: *Feb 1*
 
 ### Key Concepts Learned: 
