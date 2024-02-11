@@ -134,68 +134,68 @@ In conclusion, I have effectively met my objectives about risk management techni
 *	Work Breakdown structure (WBS) – A work breakdown structure, or WBS, is a methodical approach to divide the overall project work into smaller tasks. WBS also preserves the relationships between activities, making it possible to determine which tasks come first, which cannot begin before another work is finished, and so on.
 *	Agile Model - The Agile model is an iterative and incremental approach to software development that emphasizes flexibility, collaboration, and customer feedback. It focuses on delivering working software in short iterations, typically lasting two to four weeks, called sprints.
 *	Project Planning Techniques – 
-  - Critical Path Method – The Critical Path Method (CPM), sometimes referred to as network analysis, finds the longest sequence of dependent jobs to determine the project timeline. Parallel jobs present different planning issues than linear initiatives. It becomes difficult to manage dependencies, start and finish times, and slack between jobs. By identifying the critical path, CPM facilitates efficient project planning and management, helping to overcome these issues.
-  - Goldratt’s Critical Chain Method – Tasks are buffered with some buffer to handle uncertainties and hazards. People who are given these responsibilities have a habit of putting them off until the very last minute. Therefore, even if a large buffer is given for their tasks, the project loses everything in the buffer. They put off doing their work until the very last minute, which usually leads to either shoddy work or duties that are completed later than expected.
+  - i. Critical Path Method – The Critical Path Method (CPM), sometimes referred to as network analysis, finds the longest sequence of dependent jobs to determine the project timeline. Parallel jobs present different planning issues than linear initiatives. It becomes difficult to manage dependencies, start and finish times, and slack between jobs. By identifying the critical path, CPM facilitates efficient project planning and management, helping to overcome these issues.
+  - ii. Goldratt’s Critical Chain Method – Tasks are buffered with some buffer to handle uncertainties and hazards. People who are given these responsibilities have a habit of putting them off until the very last minute. Therefore, even if a large buffer is given for their tasks, the project loses everything in the buffer. They put off doing their work until the very last minute, which usually leads to either shoddy work or duties that are completed later than expected.
 
-Reflections on Case Study/course work:
+### Reflections on Case Study/course work:
 
 I read the book and two case studies related to the topics mentioned above. Below are the prime areas I focused on for this week: -
-•	I scrutinized the significance of Configuration Management in ensuring consistency and control over project artifacts. 
-•	Understanding the benefits and characteristics of Configuration Management provided valuable insights into maintaining project integrity and facilitating collaboration.
-•	Project planning emerged as a critical area of study, where I explored the components and methodologies essential for effective project execution.
-•	Analyzing top-down and bottom-up planning approaches, along with techniques like Work Breakdown Structure (WBS), enhanced my understanding of structuring project tasks and resources.
-•	I delved into the intricacies of resource planning, recognizing its pivotal role in allocating human and material resources effectively throughout the project lifecycle.
-•	Understanding resource allocation strategies and techniques provided valuable insights into optimizing resource utilization and enhancing project efficiency.
-•	Risk planning emerged as a crucial aspect of project management, where I investigated the identification, assessment, and mitigation of potential project hazards.
-•	Through the examination of diverse risk management approaches and structures, I was able to formulate anticipatory tactics to tackle technical, operational, and external hazards, consequently ensuring the preservation of project goals.
-•	Exploring the project initiation phase, I studied the importance of defining project goals, objectives, and scope to lay a solid foundation for project execution.
-•	I explored the nuances of requirements elicitation and design, realizing their importance in determining the course and results of the project.
+*	I scrutinized the significance of Configuration Management in ensuring consistency and control over project artifacts. 
+*	Understanding the benefits and characteristics of Configuration Management provided valuable insights into maintaining project integrity and facilitating collaboration.
+*	Project planning emerged as a critical area of study, where I explored the components and methodologies essential for effective project execution.
+*	Analyzing top-down and bottom-up planning approaches, along with techniques like Work Breakdown Structure (WBS), enhanced my understanding of structuring project tasks and resources.
+*	I delved into the intricacies of resource planning, recognizing its pivotal role in allocating human and material resources effectively throughout the project lifecycle.
+*	Understanding resource allocation strategies and techniques provided valuable insights into optimizing resource utilization and enhancing project efficiency.
+*	Risk planning emerged as a crucial aspect of project management, where I investigated the identification, assessment, and mitigation of potential project hazards.
+*	Through the examination of diverse risk management approaches and structures, I was able to formulate anticipatory tactics to tackle technical, operational, and external hazards, consequently ensuring the preservation of project goals.
+*	Exploring the project initiation phase, I studied the importance of defining project goals, objectives, and scope to lay a solid foundation for project execution.
+*	I explored the nuances of requirements elicitation and design, realizing their importance in determining the course and results of the project.
 
 
-Collaborative Learning:
+### Collaborative Learning:
 
-•	I had a thorough conversation about the "Virtual Wedding Planning" concept with colleagues.
-•	During the talk, we covered significant subjects like market research and project start-up.
-•	We examined the subtleties of the initial phases of the project to obtain knowledge about efficient planning and implementation.
-•	Performed extensive research on the project's target market and possible purchasers.
-•	Analyzed the "Virtual Wedding Planning" project's market viability and business value.
-•	Through cooperative conversation, we improved our understanding of the project's objectives and scope as a group.
-•	Encouraged creativity and problem-solving among team members by including a range of viewpoints and ideas.
-•	Employed a collaborative strategy to guarantee a thorough and knowledgeable viewpoint on project growth.
-•	Encouraged team members to share knowledge in order to optimize insights and experience.
-•	Gained a better comprehension of the virtual wedding planning process by leveraging collective expertise and insights.
-
-
+*	I had a thorough conversation about the "Virtual Wedding Planning" concept with colleagues.
+*	During the talk, we covered significant subjects like market research and project start-up.
+*	We examined the subtleties of the initial phases of the project to obtain knowledge about efficient planning and implementation.
+*	Performed extensive research on the project's target market and possible purchasers.
+*	Analyzed the "Virtual Wedding Planning" project's market viability and business value.
+*	Through cooperative conversation, we improved our understanding of the project's objectives and scope as a group.
+*	Encouraged creativity and problem-solving among team members by including a range of viewpoints and ideas.
+*	Employed a collaborative strategy to guarantee a thorough and knowledgeable viewpoint on project growth.
+*	Encouraged team members to share knowledge in order to optimize insights and experience.
+*	Gained a better comprehension of the virtual wedding planning process by leveraging collective expertise and insights.
 
 
-Further Research/Readings:
-•	I explored through a number of blogs and academic papers to improve my knowledge about software configuration management and project planning.
-•	I also got myself engaged with perceptive blog posts about the most recent developments in agile approaches and project management strategies.
-•	Gained useful knowledge about how agile approaches are used in actual projects.
-•	Examined through research publications subjects including versioning, auditing, smoke testing, and configuration management.
-•	Explored the advantages of configuration management and realized how important it is for software development.
-•	Studied features of a strong configuration management system for efficient project implementation.
-•	I also examined the main features of configuration management with a focus on workable implementation techniques.
-•	Furthermore, I looked into the work breakdown structure (WBS), agile models, and top-down and bottom-up plans as project planning components.
-•	Explored Goldratt's Critical Chain Method and the critical path method as project planning techniques.
-•	Examined how crucial project planning is to guaranteeing a project's successful completion.
-•	I found workable solutions for efficient project management and oversight.
-•	Lastly, I made extensive use of a range of materials to obtain thorough understanding of software project planning techniques.
 
-Adjustments to Goals:
 
-•	I made a significant progress in deepening my knowledge of project planning and configuration management systems.
-•	I looked into a number of project planning-related aspects and how they applied to various project circumstances. 
-•	Now, the focus is to utilize the recently obtained knowledge to improve the project's administration and implementation of our project "Virtual Wedding Planning". 
-•	It was very essential to do the research outside of the book as well and doing so I gained more insights on why actually configuration management is so important. I can proudly say that I have deepened my understanding of versioning and auditing.
-•	The most important goal for this week is to focus on our project completion, thereby applying the important concepts learned so far.
-•	I attained the goals related to project planning, versioning, auditing, and configuration management. 
-•	Committed to advancing knowledge and abilities to ensure effective project management and successful project outcomes.
-•	Furthermore, I kept myself aligned with existing goals with an emphasis on learning more about project control and monitoring in the coming week. 
-•	I also seek to investigate the nuances of project monitoring procedures, encompassing methods and approaches. 
-•	I am particularly curious about the process of project monitoring, especially in the context of iterative projects. 
+### Further Research/Readings:
+*	I explored through a number of blogs and academic papers to improve my knowledge about software configuration management and project planning.
+*	I also got myself engaged with perceptive blog posts about the most recent developments in agile approaches and project management strategies.
+*	Gained useful knowledge about how agile approaches are used in actual projects.
+*	Examined through research publications subjects including versioning, auditing, smoke testing, and configuration management.
+*	Explored the advantages of configuration management and realized how important it is for software development.
+*	Studied features of a strong configuration management system for efficient project implementation.
+*	I also examined the main features of configuration management with a focus on workable implementation techniques.
+*	Furthermore, I looked into the work breakdown structure (WBS), agile models, and top-down and bottom-up plans as project planning components.
+*	Explored Goldratt's Critical Chain Method and the critical path method as project planning techniques.
+*	Examined how crucial project planning is to guaranteeing a project's successful completion.
+*	I found workable solutions for efficient project management and oversight.
+*	Lastly, I made extensive use of a range of materials to obtain thorough understanding of software project planning techniques.
 
-In conclusion, I have effectively met my objectives about configuration management, versioning, auditing, and project planning procedures. My attention has now shifted to new goals, continuing to work on my project while striving for a thorough understanding of the topic project monitoring.
+###Adjustments to Goals:
+
+*	I made a significant progress in deepening my knowledge of project planning and configuration management systems.
+*	I looked into a number of project planning-related aspects and how they applied to various project circumstances. 
+*	Now, the focus is to utilize the recently obtained knowledge to improve the project's administration and implementation of our project "Virtual Wedding Planning". 
+*	It was very essential to do the research outside of the book as well and doing so I gained more insights on why actually configuration management is so important. I can proudly say that I have deepened my understanding of versioning and auditing.
+*	The most important goal for this week is to focus on our project completion, thereby applying the important concepts learned so far.
+*	I attained the goals related to project planning, versioning, auditing, and configuration management. 
+*	Committed to advancing knowledge and abilities to ensure effective project management and successful project outcomes.
+*	Furthermore, I kept myself aligned with existing goals with an emphasis on learning more about project control and monitoring in the coming week. 
+*	I also seek to investigate the nuances of project monitoring procedures, encompassing methods and approaches. 
+*	I am particularly curious about the process of project monitoring, especially in the context of iterative projects. 
+
+#### In conclusion, I have effectively met my objectives about configuration management, versioning, auditing, and project planning procedures. My attention has now shifted to new goals, continuing to work on my project while striving for a thorough understanding of the topic project monitoring.
 
 
 
