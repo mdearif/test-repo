@@ -46,7 +46,9 @@
 ### Peer Interactions:
 
 During the week, I had a valuable interaction with a friend who is a seasoned software developer. Our discussion primarily revolved around software project management topics, and it proved to be insightful and enriching.  
-One key insight emerged as we delved into the challenges of estimating initial project size, effort, and costs. My friend shared practical experiences from past projects, highlighting the complexities involved in accurately forecasting these parameters. He emphasized the importance of leveraging historical data, incorporating expert opinions, and constantly refining estimates throughout the project lifecycle to enhance accuracy.  
+
+One key insight emerged as we delved into the challenges of estimating initial project size, effort, and costs. My friend shared practical experiences from past projects, highlighting the complexities involved in accurately forecasting these parameters. He emphasized the importance of leveraging historical data, incorporating expert opinions, and constantly refining estimates throughout the project lifecycle to enhance accuracy.
+
 Additionally, our conversation touched upon the significance of stakeholder management and the challenges associated with aligning diverse expectations. My friend shared anecdotes from projects where effective communication played a pivotal role in managing stakeholder interests and maintaining project momentum. We discussed strategies for fostering transparent communication channels and building trust with stakeholders, emphasizing its critical role in successful project outcomes.  
 This interaction not only deepened my understanding of the practical nuances of software project management but also provided real-world perspectives on the challenges and solutions discussed in class. It underscored the importance of collaborative learning and knowledge sharing within the software development community, enriching my insights and broadening my perspective on effective project management practices.
 
