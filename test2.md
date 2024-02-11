@@ -24,7 +24,7 @@
 
 ### Application in Real Projects: 
 
-###### The above concepts find numerous practical applications when implemented in real projects. Several examples include:  
+#### The above concepts find numerous practical applications when implemented in real projects. Several examples include:  
 
 *	Clearly defining project goals, scope, and objectives ensures a well-defined direction for the project.
 *	Creating an initial project plan involves breaking down the entire project into manageable tasks, estimating effort, and setting realistic timelines.
@@ -35,7 +35,7 @@
 *	Embracing an iterative approach allows for continuous improvement and adaptability to changing project requirements.
 *	Properly concluding a project involves analyzing outcomes, ensuring deliverables meet acceptance criteria, and capturing lessons learned.
 
-###### Some common challenges associated with the application of these concepts are:
+#### Some common challenges associated with the application of these concepts are:
 *	Managing changes in project scope after initiation can lead to scope creep, impacting timelines and resource allocation.
 *	Balancing limited resources, including skilled personnel, budget constraints, and hardware availability, poses challenges to project execution.
 *	Aligning and managing diverse stakeholder expectations can be complex, especially when priorities conflict.
